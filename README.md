@@ -2,8 +2,9 @@
 Very small jQuery plugin for parallax effect
 
 Usage:
-[code]
+
+```javascript
 $(window).scroll(function(){
   $('element').parallax();
 }
-[/code]
+```
