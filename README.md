@@ -6,5 +6,5 @@ Usage:
 ```javascript
 $(window).scroll(function(){
   $('element').parallax();
-}
+});
 ```
